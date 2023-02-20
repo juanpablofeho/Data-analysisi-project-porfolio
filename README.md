@@ -1,2 +1,2 @@
 # Data-analysisi-project-porfolio
-Showcase of a compilation of data analisis proyects
+Showcase of data analysis proyects
